@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">Silva Spark MD</h1>
+  <h1 align="center">Mabindo Spark MD</h1>
 </p>
 
-> **`Updated` Silva Spark MD with Latest Features**
+> **`Updated` Mabindo Spark MD with Latest Features**
 
 ---
 ### 🌟 Connect With Me
@@ -14,9 +14,9 @@
 </p>
 
 ---
-# Support Silva Tech Inc ❤️
+# Support Mabindo Tech World 🌎
 
-[![Sponsor SilvaTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
+[![Sponsor MabindoTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
 
 ---
 
@@ -28,7 +28,7 @@
 
 --- 
 <p align="center">
-<a><img src='./sylivanus/SilvaSpark.png'/></a>
+<a><img src='./mabindo/MabindoSpark.png'/></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -109,7 +109,7 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 ---
 
-## 🔗 Silva Spark MD Info
+## 🔗 Mabindo Spark MD Info
 
   <p align="center">
 <a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
@@ -144,9 +144,9 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 ### Thanks To Team ⤵️
 
-> Silva Spark MD Owner 
-- [Silva TechB](https://github.com/SilvaTechB)
-- Creator and Owner Of Silva Spark MD
+> Mabindo Spark MD Owner 
+- [Mabindo TechB](https://github.com/SilvaTechB)
+- Creator and Owner Of Mabindo Spark MD
 
 ---
 
